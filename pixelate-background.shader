@@ -32,7 +32,6 @@
 			};
 
 			sampler2D _GrabTexture;
-			float4 _GrabTexture_ST;
 			
 			v2f vert (appdata_base input)
 			{
